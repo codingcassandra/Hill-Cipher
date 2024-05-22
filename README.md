@@ -1,0 +1,1 @@
+The Hill cipher is a cryptographic algorithm used for encryption and decryption. Developed by Lester S. Hill in 1929, the Hill cipher involves the use of matrix multiplication to transform plaintext into ciphertext and vice versa.
